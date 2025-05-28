@@ -5,7 +5,7 @@
       "title": "da sua",
       "price": 1233,
       "description": "456",
-      "priority": "low",
+      "priority": 3,
       "status": true,
       "createdAt": "2025-05-27T08:43:14.806Z",
       "id": 3
@@ -14,7 +14,7 @@
       "title": "test 1",
       "price": 1000,
       "description": "hallo",
-      "priority": "low",
+      "priority": 3,
       "status": true,
       "createdAt": "2025-05-27T09:51:37.764Z",
       "id": 1
@@ -23,7 +23,7 @@
       "title": "test 2",
       "price": 1000,
       "description": "hallo",
-      "priority": "low",
+      "priority": 3,
       "status": true,
       "createdAt": "2025-05-27T09:51:37.764Z",
       "id": 2
@@ -32,7 +32,7 @@
       "title": "test 3",
       "price": 1000,
       "description": "hallo",
-      "priority": "low",
+      "priority": 1,
       "status": true,
       "createdAt": "2025-05-27T09:51:37.764Z",
       "id": 3
@@ -41,7 +41,7 @@
       "title": "test 4",
       "price": 4000,
       "description": "hallo",
-      "priority": "low",
+      "priority": 1,
       "status": true,
       "createdAt": "2025-05-27T09:54:37.764Z",
       "id": 4
@@ -50,7 +50,7 @@
       "title": "test 5",
       "price": 5000,
       "description": "hallo",
-      "priority": "low",
+      "priority": 1,
       "status": true,
       "createdAt": "2025-05-27T09:55:37.764Z",
       "id": 5
@@ -59,7 +59,7 @@
       "title": "test 6",
       "price": 6000,
       "description": "hallo",
-      "priority": "low",
+      "priority": 1,
       "status": true,
       "createdAt": "2025-05-27T09:56:37.764Z",
       "id": 6
@@ -68,7 +68,7 @@
       "title": "test 7",
       "price": 7000,
       "description": "hallo",
-      "priority": "low",
+      "priority": 2,
       "status": true,
       "createdAt": "2025-05-27T09:57:37.764Z",
       "id": 7
@@ -77,7 +77,7 @@
       "title": "test 8",
       "price": 8000,
       "description": "hallo",
-      "priority": "low",
+      "priority": 2,
       "status": true,
       "createdAt": "2025-05-27T09:58:37.764Z",
       "id": 8
@@ -86,7 +86,7 @@
       "title": "test 89",
       "price": 89000,
       "description": "hallo",
-      "priority": "low",
+      "priority": 2,
       "status": true,
       "createdAt": "2025-05-27T09:589:37.764Z",
       "id": 89
@@ -95,7 +95,7 @@
       "title": "test 9",
       "price": 9000,
       "description": "hallo",
-      "priority": "low",
+      "priority": 3,
       "status": true,
       "createdAt": "2025-05-27T09:59:37.764Z",
       "id": 9
@@ -104,7 +104,7 @@
       "title": "test 10",
       "price": 10000,
       "description": "hallo",
-      "priority": "low",
+      "priority": 3,
       "status": true,
       "createdAt": "2025-05-27T09:510:37.764Z",
       "id": 10
@@ -113,7 +113,7 @@
       "title": "test 101",
       "price": 101000,
       "description": "hallo",
-      "priority": "low",
+      "priority": 3,
       "status": true,
       "createdAt": "2025-05-27T09:5101:37.764Z",
       "id": 101
@@ -122,7 +122,7 @@
       "title": "test 112",
       "price": 112000,
       "description": "hallo",
-      "priority": "low",
+      "priority": 3,
       "status": true,
       "createdAt": "2025-05-27T09:5112:37.764Z",
       "id": 112
@@ -131,7 +131,7 @@
       "title": "test 112",
       "price": 112000,
       "description": "hallo",
-      "priority": "low",
+      "priority": 1,
       "status": true,
       "createdAt": "2025-05-27T09:5112:37.764Z",
       "id": 15
@@ -140,7 +140,7 @@
       "title": "test 13",
       "price": 13000,
       "description": "hallo",
-      "priority": "low",
+      "priority": 1,
       "status": true,
       "createdAt": "2025-05-27T09:513:37.764Z",
       "id": 13
@@ -149,7 +149,7 @@
       "title": "test 114",
       "price": 114000,
       "description": "hallo",
-      "priority": "low",
+      "priority": 1,
       "status": true,
       "createdAt": "2025-05-27T09:5114:37.764Z",
       "id": 114
@@ -158,7 +158,7 @@
       "title": "test 15",
       "price": 15000,
       "description": "hallo",
-      "priority": "low",
+      "priority": 2,
       "status": true,
       "createdAt": "2025-05-27T09:515:37.764Z",
       "id": 15
@@ -167,7 +167,7 @@
       "title": "test 15",
       "price": 15000,
       "description": "hallo",
-      "priority": "low",
+      "priority": 2,
       "status": true,
       "createdAt": "2025-05-27T09:516:37.764Z",
       "id": 16
@@ -176,7 +176,7 @@
       "title": "test 17",
       "price": 17000,
       "description": "hallo",
-      "priority": "low",
+      "priority": 2,
       "status": true,
       "createdAt": "2025-05-27T09:517:37.764Z",
       "id": 17
@@ -185,7 +185,7 @@
       "title": "test 18",
       "price": 18000,
       "description": "hallo",
-      "priority": "low",
+      "priority": 3,
       "status": true,
       "createdAt": "2025-05-27T09:518:37.764Z",
       "id": 18
@@ -194,7 +194,7 @@
       "title": "test 19",
       "price": 19000,
       "description": "hallo",
-      "priority": "low",
+      "priority": 3,
       "status": true,
       "createdAt": "2025-05-27T09:519:37.764Z",
       "id": 19
